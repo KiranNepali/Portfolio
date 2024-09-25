@@ -7,7 +7,7 @@ type Props = {};
 
 function Homemain({}: Props) {
   return (
-    <div className="relative">
+    <div className="relative w-11/12 md:w-10/12">
       <Hero />
       <AboutMe />
       <MyStack />
